@@ -1,0 +1,16 @@
+web practical 4 
+
+Develop client which consumes web services developed in different
+platform.
+
+[WebMethod]
+public double Add(double a, double b)
+{
+double sum = a + b;
+return sum;
+}
+[WebMethod]
+public double Multi(double a, double b)
+{
+double sum = a * b;
+return s
