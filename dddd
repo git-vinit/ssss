@@ -14,3 +14,9 @@ public double Multi(double a, double b)
 {
 double sum = a * b;
 return s
+
+
+
+
+double num1 = Double.parseDouble(request.getParameter(&quot;txt1&quot;));
+double num2 = Double.parseDouble(request.getParameter(&quot;txt2&quot;));
